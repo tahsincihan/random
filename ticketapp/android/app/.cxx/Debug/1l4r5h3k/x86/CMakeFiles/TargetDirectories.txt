@@ -1,0 +1,2 @@
+/Users/thcih/Documents/GitHub/MYETicketScanning/ticketapp/android/app/.cxx/Debug/1l4r5h3k/x86/CMakeFiles/edit_cache.dir
+/Users/thcih/Documents/GitHub/MYETicketScanning/ticketapp/android/app/.cxx/Debug/1l4r5h3k/x86/CMakeFiles/rebuild_cache.dir
